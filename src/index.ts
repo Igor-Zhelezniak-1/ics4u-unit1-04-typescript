@@ -1,5 +1,5 @@
 /**
- * The random number program 
+ * The random number program
  *
  *
  * By: Igor Zhelezniak
